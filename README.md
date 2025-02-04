@@ -1,8 +1,8 @@
 # States-Capital-Project
 Quiz Game Title: State Capitals
 
+![Image 2-4-25 at 5 25 PM](https://github.com/user-attachments/assets/25a1f4f8-4363-40b2-8526-6b09b00e7bda)
 
-![000EF396-5B47-487F-9E98-2F0621F3E8EC](https://github.com/user-attachments/assets/719cd59b-af97-4ce5-8d77-6d060e261d11)
 
 BEGIN Quiz
 
