@@ -60,13 +60,13 @@ END Quiz
 
 # Description of Game
 
-The game quizzes the player on state capitals for 4 states. In order to win the game the user must correctly enter the name for MO, UT, TX, and FL
+The game quizzes the player on state capitals for 4 states. In order to win the game the user must correctly enter the name for each state capital, MO, UT, TX, and FL.
 
 # Technologies Used: 
 JavaScript, HTML, and CSS
 
 # Next Steps
-To enhance the game I would like to expand it to quiz the players on all state capitals in the US. Also I would like to update the scoring for the game to allow players to win if they answer 80% of the state capitals correct instead of 100% of the state capitals.
+To enhance the game I would like to expand it to quiz the players on all state capitals in the US. Also I would like to update the scoring for the game to allow players to win if they answer 80% of the state capitals correct instead of 100% of the state capitals. I would also enhance my css code to make user be able actually see a picture of each state, while question is be asked. 
 
 
 
