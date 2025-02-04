@@ -5,17 +5,16 @@ BEGIN Quiz
 
     SET score = 0
 
-   Question 1
+    Question 1
     DISPLAY "Question 1: What is the capital of Missouri?"
     GET  answer to question 1 which is answer1 from user
     IF answer1 == "Jefferson city"
         INCREMENT score by 1
 
-   ELSE IF answer==null
-
         DISPLAY "Please provide a text answer. Empty response is not accepted."
     
-
+    ELSE IF answer==null
+    
     Question 2
     DISPLAY "Question 2: What is the capital Utah?"
     GET answer to question 2 which is answer2 from user
@@ -37,7 +36,7 @@ BEGIN Quiz
 
         DISPLAY "Please provide a text answer. Empty response is not accepted."
 
-Question 4
+    Question 4
     DISPLAY "Question 4: What is the capital of Florida?"
     GET answer to question 4 which is answer4 from user
     IF answer4 == "Tallahassee"
