@@ -1,6 +1,9 @@
 # States-Capital-Project
 Quiz Game Title: State Capitals
 
+
+![000EF396-5B47-487F-9E98-2F0621F3E8EC](https://github.com/user-attachments/assets/719cd59b-af97-4ce5-8d77-6d060e261d11)
+
 BEGIN Quiz
 
     SET score = 0
