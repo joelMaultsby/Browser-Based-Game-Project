@@ -1,4 +1,4 @@
-# Browser-Based-Game-Project
+# States-Capital-Project
 Quiz Game Title: State Capitals
 
 BEGIN Quiz
@@ -46,9 +46,25 @@ Question 4
 
      ELSE IF answer==null
 
+     
+
         DISPLAY "Please provide a text answer. Empty response is not accepted."
 
     Display final score to the score
     DISPLAY "Your final score is: " + score
 
 END Quiz
+
+
+# Description of Game
+
+The game quizzes the player on state capitals for 4 states. In order to win the game the user must correctly enter the name for MO, UT, TX, and FL
+
+# Technologies Used: 
+JavaScript, HTML, and CSS
+
+# Next Steps
+To enhance the game I would like to expand it to quiz the players on all state capitals in the US. Also I would like to update the scoring for the game to allow players to win if they answer 80% of the state capitals correct instead of 100% of the state capitals.
+
+
+
